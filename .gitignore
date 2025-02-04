@@ -1,0 +1,5 @@
+# ignore src folder
+src/*
+
+# ignore dist/node_modules folder
+dist/js/node_modules/*
